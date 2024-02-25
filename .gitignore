@@ -1,0 +1,11 @@
+data/config.json
+data/config.py
+data/tags.json
+data/cookies/*.txt
+data/cookies/*.pkl
+data/cookies/*.pickle
+*.mkv
+.vscode/
+__pycache__/
+tmp/*
+.wdm/
